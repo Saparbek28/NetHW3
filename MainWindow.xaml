@@ -6,7 +6,18 @@
         xmlns:local="clr-namespace:NetHW3"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Background="GhostWhite">
+        <TextBox Name="ipTextBox" HorizontalAlignment="Left" Height="25" Margin="50,30,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="180"/>
+        <TextBox Name="portTextBox" HorizontalAlignment="Left" Height="25" Margin="250,30,0,0" TextWrapping="Wrap" Text="12345" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="chatTextBox" HorizontalAlignment="Left" Height="134" Margin="50,139,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="698" IsReadOnly="True"/>
+        <TextBox Name="messageTextBox" HorizontalAlignment="Left" Height="50" Margin="84,292,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="640"/>
+        <Button Name="connectButton" Content="Connect" HorizontalAlignment="Left" Margin="400,30,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="ConnectButtonClick"/>
+        <Button Name="sendButton" Content="Send" HorizontalAlignment="Center" Margin="370,365,347,0" VerticalAlignment="Top" Width="75" Height="25" Click="SendButtonClick"/>
+        <Button Name="closeButton" Content="X" HorizontalAlignment="Center" Margin="756,10,10,0" VerticalAlignment="Top" Width="26" Height="20" Click="CloseButtonClick"/>
+        <Label Content="IP Address" HorizontalAlignment="Left" Margin="50,4,0,0" VerticalAlignment="Top"/>
+        <Label Content="Port" HorizontalAlignment="Left" Margin="250,4,0,0" VerticalAlignment="Top"/>
+        <Label Content="Chat" HorizontalAlignment="Left" Margin="50,94,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.538"/>
+        <Label Content="Message" HorizontalAlignment="Left" Margin="10,292,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>

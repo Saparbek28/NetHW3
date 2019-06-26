@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\NetHW3\NetHW3\bin\Debug\NetHW3.exe.config
+C:\Users\admin\source\repos\NetHW3\NetHW3\bin\Debug\NetHW3.exe
+C:\Users\admin\source\repos\NetHW3\NetHW3\bin\Debug\NetHW3.pdb
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\NetHW3.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\NetHW3_MarkupCompile.cache
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\NetHW3_MarkupCompile.lref
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\NetHW3.g.resources
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\NetHW3.Properties.Resources.resources
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\NetHW3.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\NetHW3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\NetHW3.exe
+C:\Users\admin\source\repos\NetHW3\NetHW3\obj\Debug\NetHW3.pdb
